@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name mau100)(type KiCad)(uri ${KIPRJMOD}/mau100.pretty)(options "")(descr "DCDC MAU100 Series"))
+  (lib (name switches)(type KiCad)(uri ${KIPRJMOD}/switches.pretty)(options "")(descr "popular switches in Japan"))
+  (lib (name jacks)(type KiCad)(uri ${KIPRJMOD}/jacks.pretty)(options "")(descr "poular jacks in Japan"))
+  (lib (name pots)(type KiCad)(uri ${KIPRJMOD}/pots.pretty)(options "")(descr "popular pots in Japan"))
+  (lib (name JRC)(type KiCad)(uri ${KIPRJMOD}/newJRC.pretty)(options "")(descr "new JRC"))
+)
